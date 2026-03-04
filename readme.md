@@ -3,6 +3,9 @@ Project-Based Financial Data Warehouse (OLAP)
 Author: Fahimeh Latifi
 Date: 2026-02-27
 Technology Stack: Oracle 19c / SQL / ETL / OLAP / Star Schema
+This project demonstrates a Data Warehouse designed for project-based financial tracking.  
+
+**Note:** This project is a simulation for learning and portfolio purposes. All data and workflows are fictional and for demonstration only.
 
 📌 Project Overview
 
