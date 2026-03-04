@@ -1,0 +1,5 @@
+Project_ID,Employee_ID,Task_ID,Time_ID,Cost_Center_ID,Hours_Worked,Labor_Cost,Expense_Amount,Revenue_Amount,Profit,Progress_Percent
+1,101,1001,20240201,5001,8,300,200,1500,0,10
+1,102,1002,20240202,5001,6,250,100,1200,0,20
+2,103,1004,20240203,5002,5,200,50,1000,0,30
+2,104,1003,20240204,5001,4,150,75,800,0,40
